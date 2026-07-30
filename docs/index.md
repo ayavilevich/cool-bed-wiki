@@ -2,4 +2,4 @@ A technical guide and community resource for building an Open-Source DIY mattres
 
 Building instructions for the system will be published here.
 
-For other resources see: https://aygarage.com/cool-bed/
+For other resources see: [AYG Cool Bed](https://aygarage.com/cool-bed/)
