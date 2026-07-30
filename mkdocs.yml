@@ -1,4 +1,5 @@
 # https://www.mkdocs.org/user-guide/configuration/
+# example: https://github.com/mkdocs/mkdocs/blob/master/mkdocs.yml
 site_name: AYG Cool Bed Wiki
 
 theme:
@@ -7,9 +8,14 @@ theme:
     # primary: 'indigo' 
     # accent: 'indigo'
 
+repo_url: https://github.com/ayavilevich/cool-bed-wiki/
+edit_uri: blob/main/docs/
+
 nav:
   - Home: index.md
 #  - Installation: installation.md
 #  - Configuration: configuration.md
 #  - MQTT: mqtt.md
 #  - Troubleshooting: troubleshooting.md
+
+copyright: Copyright &copy; 2026 AY Garage Ltd. All rights reserved. Released under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a> license.
