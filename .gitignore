@@ -1,0 +1,4 @@
+mkdocs-env
+local*
+.env
+site

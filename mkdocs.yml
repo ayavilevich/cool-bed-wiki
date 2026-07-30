@@ -1,0 +1,15 @@
+# https://www.mkdocs.org/user-guide/configuration/
+site_name: AYG Cool Bed Wiki
+
+theme:
+  name: material
+  palette: # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+    # primary: 'indigo' 
+    # accent: 'indigo'
+
+nav:
+  - Home: index.md
+#  - Installation: installation.md
+#  - Configuration: configuration.md
+#  - MQTT: mqtt.md
+#  - Troubleshooting: troubleshooting.md
