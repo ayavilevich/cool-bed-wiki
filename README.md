@@ -1,11 +1,15 @@
 # AYG Cool Bed - Wiki
 
-A technical guide and community resource for building an Open-Source DIY mattress cooling system.
+A technical guide and community resource for building the **AYG Cool Bed**, an open-source DIY mattress cooling system.
 
-Building instructions for the system will be published here.
+The complete build guide and project documentation are published here.
 
-This repo contains MkDocs source markdown files. To view the Wiki visit https://ayavilevich.github.io/cool-bed-wiki/
+This repository contains the MkDocs source files for the documentation. To browse the published wiki, visit:
 
-At this time, to contribute to the Wiki, please post your suggestions and findings in [Discussions](https://github.com/ayavilevich/cool-bed-wiki/discussions).
+https://ayavilevich.github.io/cool-bed-wiki/
 
-For other resources see: https://aygarage.com/cool-bed/
+For additional project information and resources, visit:
+
+https://aygarage.com/cool-bed/
+
+If you'd like to contribute, please share your suggestions, corrections, and findings in the project's [Discussions](https://github.com/ayavilevich/cool-bed-wiki/discussions).

@@ -13,9 +13,27 @@ edit_uri: blob/main/docs/
 
 nav:
   - Home: index.md
-#  - Installation: installation.md
-#  - Configuration: configuration.md
-#  - MQTT: mqtt.md
-#  - Troubleshooting: troubleshooting.md
+  - Getting started: getting-started.md
+  - Builds: builds.md
+  - Components:
+    - Mattress pad: components/mattress-pad.md
+    - Pumps: components/pumps.md
+    - Power supply: components/power-supply.md
+    - Hoses: components/hoses.md
+    - Containers: components/containers.md
+    - Ice packs: components/ice-packs.md
+    - Coolant: components/coolant.md
+    - Controller board: components/controller-board.md
+    - Controller enclosure: components/controller-enclosure.md
+    - Temperature sensors: components/temperature-sensors.md
+    - Heat exchanger: components/heat-exchanger.md
+    - Water heater: components/water-heater.md
+    - Flow sensor: components/flow-sensor.md
+  - Assembly:
+    - Loops: assembly/loops.md
+    - Firmware: assembly/firmware.md
+    - Configuration: assembly/configuration.md
+    - MQTT: assembly/mqtt.md
+  - Troubleshooting: troubleshooting.md
 
 copyright: Copyright &copy; 2026 AY Garage Ltd. All rights reserved. Released under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a> license.
