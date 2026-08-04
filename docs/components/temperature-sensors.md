@@ -11,6 +11,10 @@ For this project, we want the waterproof version, where the IC is sealed inside 
 
 ![DS18B20](../img/components/temperature-sensor.webp)
 
+This type of sensor, especially when purchased from random sellers on online marketplaces, is likely to be a clone. This is not a deal breaker, but it is something to be aware of. There may be a temperature offset from the true temperature, and the power consumption may be higher than that of the original sensor. On the other hand, clones are inexpensive and are often faster than the original. The Cool Bed firmware allows you to calibrate the readings for better accuracy.
+
+If you are curious, read this [detailed research](https://github.com/cpetrich/counterfeit_DS18B20) on the topic.
+
 ## Connector
 
 It is recommended to get one with a JST-XH 3-pin connector. This way you can replace or reconnect the sensors easily. You will need a matching connector on your [board](controller-board.md), though. The JST has a specific orientation, so it is hard to mess up the polarity.
