@@ -15,6 +15,8 @@ The Cool Bed is a simple, inexpensive, open-source water-based bed cooling syste
 * Built-in Wi-Fi — no proprietary hub required.
 * Multiple control options — use the built-in web interface, Home Assistant, or MQTT.
 
+![Diagram](img/dev-setup.webp)
+
 ---
 
 For additional project information and resources, visit: [AYG Cool Bed](https://aygarage.com/cool-bed/)

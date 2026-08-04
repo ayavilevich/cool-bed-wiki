@@ -1,6 +1,6 @@
 You can build a Cool Bed device in many different ways. There are several [different options](builds.md). This is the basic diagram:
 
-![Diagram](img/two-buckets-diagram.png)
+![Diagram](img/two-buckets-diagram.webp)
 
 To build it, get the following components:
 

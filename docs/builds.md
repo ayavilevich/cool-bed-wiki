@@ -2,7 +2,7 @@
 
 A simple build will cool one pad.
 
-![Diagram](img/two-buckets-diagram.png)
+![Diagram](img/two-buckets-diagram.webp)
 
 Follow [getting started](getting-started.md) for more details.
 
