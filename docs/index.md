@@ -17,6 +17,8 @@ The Cool Bed is a simple, inexpensive, open-source water-based bed cooling syste
 
 ![Diagram](img/dev-setup.webp)
 
+[Start](getting-started.md) by understanding what parts you need to build the Cool Bed. Then build the hardware, install the software and participate in the community.
+
 ---
 
 For additional project information and resources, visit: [AYG Cool Bed](https://aygarage.com/cool-bed/)

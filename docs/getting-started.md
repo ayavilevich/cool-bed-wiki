@@ -21,3 +21,5 @@ Component | Suggested beginner part | Search terms | Approximate cost | Notes
 [Heat exchanger](components/heat-exchanger.md) | 30cm or 12 inch of copper tube ID 4mm/0.15in OD 6mm/0.23in | copper tube coil airs conditioner refrigeration cooling | 7 USD | Usually sold at a length of 1m. Cut it to the required length with a saw and bend it into a shape that fits. Don't use cutters, as they will deform the tube.
 
 Extras: connectors for the temperature sensors, DC barrel connectors, and 4.7 kΩ resistors for pull-ups. TODO, expand this section.
+
+While waiting for the parts to arrive, read the engineering story of the ["Two Buckets, Two Loops" method](https://blog.yavilevich.com/2026/07/two-buckets-two-loops-method/) that the Cool Bed is based on.
