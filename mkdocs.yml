@@ -11,6 +11,12 @@ theme:
 repo_url: https://github.com/ayavilevich/cool-bed-wiki/
 edit_uri: blob/main/docs/
 
+plugins:
+  - redirects:
+      redirect_maps:
+        'fw-web-ui-index.md': 'assembly/configuration.md'
+        'fw-web-ui-config.md': 'assembly/configuration.md'
+
 nav:
   - Home: index.md
   - Getting started: getting-started.md
@@ -30,10 +36,11 @@ nav:
     - Water heater: components/water-heater.md
     - Flow sensor: components/flow-sensor.md
   - Assembly:
-    - Loops: assembly/loops.md
     - Firmware: assembly/firmware.md
+    - Loops: assembly/loops.md
     - Configuration: assembly/configuration.md
     - MQTT: assembly/mqtt.md
+  - Usage: usage.md
   - Troubleshooting: troubleshooting.md
 
 copyright: Copyright &copy; 2026 AY Garage Ltd. All rights reserved. Released under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a> license.

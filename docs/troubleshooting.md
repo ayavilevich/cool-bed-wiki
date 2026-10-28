@@ -26,7 +26,7 @@ First identify whether water is flowing or not.
 * Manually start and stop the pump and see if any bubbles leave the pump.
 * Check that you are running at the maximum speed setting (unless you have a reason not to).
 * Try to manipulate the pad with your hands to get any trapped air out.
-* Use the "Prime" function for 15-30 minutes and check for improvement.
+* Use the "Prime" mode for 15-30 minutes and check for improvement.
 * Raise the containers so there is less height difference between the pad and container.
 
 ## Humming noise during pump operation
@@ -35,6 +35,7 @@ First identify whether water is flowing or not.
 * Isolate the container from the floor or surrounding surfaces. Try putting a rug under it.
 * Place the containers farther from the bed using longer hoses.
 * Reduce the system voltage to run the pumps at a lower speed.
+* Reduce "Circulation speed set point" to run the pumps at a lower speed.
 
 More research is needed to achieve silent operation. Please experiment and [share your findings](index.md#contributing).
 
