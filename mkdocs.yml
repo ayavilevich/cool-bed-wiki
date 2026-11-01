@@ -1,6 +1,7 @@
 # https://www.mkdocs.org/user-guide/configuration/
 # example: https://github.com/mkdocs/mkdocs/blob/master/mkdocs.yml
 site_name: AYG Cool Bed Wiki
+site_url: https://ayavilevich.github.io/cool-bed-wiki/
 
 theme:
   name: material
